@@ -198,6 +198,12 @@ params:
           url: "https://example.org"
         date: "2022 - 2023"
         content:
+      - title: "Front-End Developer Certified"
+        school:
+          name: "Just code IT"
+          url: "https://example.org"
+        date: "2022 - 2023"
+        content:
       - title: "Licentiate Degree in Economics"
         school:
           name: "Technical University of Cluj Napoca"
