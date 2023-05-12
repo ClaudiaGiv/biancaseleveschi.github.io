@@ -118,7 +118,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Bianca."
-    subtitle: "I am a good frontend developer"
+    subtitle: "I am a good frontend developer, yes I ammmm"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     # roundImage: true # Make hero image circular | default false
